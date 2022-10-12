@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/monsters/static/css/main.78bb7f92.css",
-    "main.js": "/monsters/static/js/main.e4be1356.js",
+    "main.js": "/monsters/static/js/main.4dc91e18.js",
     "static/js/787.71774a75.chunk.js": "/monsters/static/js/787.71774a75.chunk.js",
     "static/media/kali.jpg": "/monsters/static/media/kali.8291eebf51adeb9cf37d.jpg",
     "static/media/hydra.png": "/monsters/static/media/hydra.2c44e7368561176d7921.png",
@@ -16,11 +16,11 @@
     "static/media/centauro_grifo.jpg": "/monsters/static/media/centauro_grifo.241a4246d921159e7503.jpg",
     "index.html": "/monsters/index.html",
     "main.78bb7f92.css.map": "/monsters/static/css/main.78bb7f92.css.map",
-    "main.e4be1356.js.map": "/monsters/static/js/main.e4be1356.js.map",
+    "main.4dc91e18.js.map": "/monsters/static/js/main.4dc91e18.js.map",
     "787.71774a75.chunk.js.map": "/monsters/static/js/787.71774a75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78bb7f92.css",
-    "static/js/main.e4be1356.js"
+    "static/js/main.4dc91e18.js"
   ]
 }
