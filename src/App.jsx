@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/yokai-worship/" element={<FilterPage />} />
-        <Route path="/yokai-worship/rating/" element={<Ratings />} />
-        <Route path="/yokai-worship/worship/" element={<Worship />} />
+        <Route path="/monsters/" element={<FilterPage />} />
+        <Route path="/monsters/rating/" element={<Ratings />} />
+        <Route path="/monsters/worship/" element={<Worship />} />
       </Routes>
     </div>
   );

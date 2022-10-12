@@ -1,6 +1,6 @@
 {
-  "name": "yokai-worship",
-  "homepage": "https://dbuendia.github.io/yokai-worship",
+  "name": "monsters",
+  "homepage": "https://dbuendia.github.io/monsters",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
