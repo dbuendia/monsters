@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/monsters/static/css/main.78bb7f92.css",
-    "main.js": "/monsters/static/js/main.4dc91e18.js",
+    "main.css": "/monsters/static/css/main.71e20090.css",
+    "main.js": "/monsters/static/js/main.4ec4748a.js",
     "static/js/787.71774a75.chunk.js": "/monsters/static/js/787.71774a75.chunk.js",
-    "static/media/kali.jpg": "/monsters/static/media/kali.8291eebf51adeb9cf37d.jpg",
+    "static/media/cyclops.png": "/monsters/static/media/cyclops.b360afda13a7062f72c1.png",
+    "static/media/mascaron.png": "/monsters/static/media/mascaron.7cb55b7b1d4972149eb0.png",
+    "static/media/kali.png": "/monsters/static/media/kali.a67f22c97f013fa8c180.png",
+    "static/media/centauro_grifo.png": "/monsters/static/media/centauro_grifo.038ca612ef777a9b6b40.png",
+    "static/media/naga.png": "/monsters/static/media/naga.59b5d92da075f3d86119.png",
     "static/media/hydra.png": "/monsters/static/media/hydra.2c44e7368561176d7921.png",
-    "static/media/gusano_lunar.jpg": "/monsters/static/media/gusano_lunar.a8ad3bf47c1bc250e217.jpg",
-    "static/media/mascaron.jpg": "/monsters/static/media/mascaron.a2ecad09e735f1a74d79.jpg",
+    "static/media/gusano_lunar.png": "/monsters/static/media/gusano_lunar.25fd2d905ec91fa59ce0.png",
     "static/media/talos.jpg": "/monsters/static/media/talos.6f6ba3d119fb44ccf907.jpg",
     "static/media/paper.png": "/monsters/static/media/paper.ffa6a31cdcf531560c56.png",
-    "static/media/naga.jpg": "/monsters/static/media/naga.ce35b9d4655a99b17f17.jpg",
-    "static/media/cyclops.jpg": "/monsters/static/media/cyclops.33547b9f16bfbc0ce11d.jpg",
     "static/media/kraken.jpg": "/monsters/static/media/kraken.011fe19535d0323dc614.jpg",
     "static/media/medusa.jpg": "/monsters/static/media/medusa.f8a692fd88b6b1a9003f.jpg",
-    "static/media/centauro_grifo.jpg": "/monsters/static/media/centauro_grifo.241a4246d921159e7503.jpg",
     "index.html": "/monsters/index.html",
-    "main.78bb7f92.css.map": "/monsters/static/css/main.78bb7f92.css.map",
-    "main.4dc91e18.js.map": "/monsters/static/js/main.4dc91e18.js.map",
+    "main.71e20090.css.map": "/monsters/static/css/main.71e20090.css.map",
+    "main.4ec4748a.js.map": "/monsters/static/js/main.4ec4748a.js.map",
     "787.71774a75.chunk.js.map": "/monsters/static/js/787.71774a75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78bb7f92.css",
-    "static/js/main.4dc91e18.js"
+    "static/css/main.71e20090.css",
+    "static/js/main.4ec4748a.js"
   ]
 }
