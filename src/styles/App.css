@@ -22,7 +22,7 @@ body {
   --torn-shadow-offset-x: -2px;
   --torn-shadow-offset-y: 2px;
   --torn-shadow-background-color: rgba(158, 127, 127, 0.25);
-  --torn-background-color: rgba(188, 0, 45, 0.8);
+  --torn-background-color: rgb(183, 103, 122);
   --torn-left-width: 11px;
   --torn-right-width: 11px;
   --torn-left-clip-path: polygon(
@@ -268,9 +268,10 @@ body {
 .App {
   display: flex;
   flex-direction: column;
-  font-family: "Luminari";
+  font-family: "Georgia", "Luminari", "Trattatello";
+  font-family: 'MedievalSharp', cursive;
   text-align: center;
-  background-color: #ede4cc;
+  /* background-color: #ede4cc; */
   background-image: url("../img/paper.png");
   /* box-shadow: 0px -0px 60px rgba(138,77,15, 0.8) inset; */
   width: auto;
@@ -278,9 +279,9 @@ body {
 
 
 .header {
-  background-color: rgba(188, 0, 45, 0.8);
-  box-shadow: 0px 0px 1px #8a4d0f;
-  background-image: url("../img/paper.png");
+  background-color: rgba(188, 0, 45, 0.4);
+  /* box-shadow: 0px 0px 1px #8a4d0f; */
+  /* background-image: url("../img/paper.png"); */
   width: 100%;
   height: 200px;
   margin: 0 auto;
@@ -362,10 +363,10 @@ body {
   flex: 1;
   overflow-y: auto;
   justify-content: space-around;
-  box-shadow: 0px -0px 60px rgba(138,77,15, 0.8) inset;
+  /* box-shadow: 0px -0px 60px rgba(138,77,15, 0.8) inset; */
   background-image: url("../img/paper.png");
   padding: 30px;
-  background-color: #ede4cc;
+  /* background-color: #ede4cc; */
 }
 
 .yokai-card {
@@ -404,7 +405,7 @@ body {
   background-image: url("../img/paper.png");
   box-shadow: 0 0px 20px -10px #8a4d0f inset;
   padding: 30px;
-  background-color: #ede4cc;
+  /* background-color: #ede4cc; */
 }
 
 .yokai-cards-rating {
@@ -440,13 +441,14 @@ body {
 }
 
 .yokai-card .kanji {
+  padding: 10px;
   font-size: 31px;
-  font-family: "Luminari";
+  /* font-family: "Luminari"; */
 }
 
 .header .kanji {
   font-size: 4.4rem;
-  font-family: "Luminari";
+  /* font-family: "Luminari"; */
 }
 
 .kanji {
@@ -532,7 +534,7 @@ form {
   padding: 15px;
   font-size: 26px;
   font-weight: bold;
-  background-color: rgba(188, 0, 45, 1);
+  background-color: rgb(183, 103, 122);
   background-image: url("../img/paper.png");
   color: white;
 }
@@ -588,7 +590,7 @@ input[type="radio"]:checked + label {
 
 .rating-btn {
   width: 100%;
-  background-color: rgba(188, 0, 45, 1);
+  background-color: rgb(183, 103, 122);
   background-image: url("../img/paper.png");
   color: white;
   position: sticky;
@@ -598,7 +600,7 @@ input[type="radio"]:checked + label {
 
 .rating-btn input[type="submit"] {
   margin-bottom: 20px;
-  font-family: "Luminari";
+  /* font-family: "Luminari"; */
   font-size: 23px;
   padding: 15px;
 }

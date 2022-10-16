@@ -1,7 +1,7 @@
 function Header() {
   return (
     <div className="header">
-      <h1 className="kanji">Monstruos cool</h1>
+      <h1 className="kanji">Monstruos de Harryhausen</h1>
     </div>
   );
 }

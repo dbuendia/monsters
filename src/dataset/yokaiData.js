@@ -1,12 +1,12 @@
-import centauro_grifo from "../img/centauro_grifo.jpg";
-import cyclops from "../img/cyclops.jpg";
-import mascaron from "../img/mascaron.jpg";
+import centauro_grifo from "../img/centauro_grifo.png";
+import cyclops from "../img/cyclops.png";
+import mascaron from "../img/mascaron.png";
 import hydra from "../img/hydra.png";
-import kali from "../img/kali.jpg";
-import gusano_lunar from "../img/gusano_lunar.jpg";
+import kali from "../img/kali.png";
+import gusano_lunar from "../img/gusano_lunar.png";
 import kraken from "../img/kraken.jpg";
 import medusa from "../img/medusa.jpg";
-import naga from "../img/naga.jpg";
+import naga from "../img/naga.png";
 import talos from "../img/talos.jpg";
 
 let yokaiData = [
@@ -50,20 +50,13 @@ let yokaiData = [
 
   {
     id: "6",
-    img: kali,
-    name: "Kali",
-    description: "Estatua de metal de una Diosa con 6 brazos.",
-  },
-
-  {
-    id: "7",
     img: gusano_lunar,
     name: "Gusanos Lunares",
     description: "Oruga gigante.",
   },
 
   {
-    id: "8",
+    id: "7",
     img: kraken,
     name: "Kraken",
     description:
@@ -71,21 +64,21 @@ let yokaiData = [
   },
 
   {
-    id: "9",
+    id: "8",
     img: medusa,
     name: "Medusa",
     description: "Mujer con cuerpo de reptil, y serpientes por cabello.",
   },
 
   {
-    id: "10",
+    id: "9",
     img: naga,
     name: "Naga",
     description: "Mezcla entra una mujer y una serpiente, con cuatro brazos.",
   },
 
   {
-    id: "11",
+    id: "10",
     img: talos,
     name: "Talos",
     description:
